@@ -1,0 +1,10 @@
+# Day-1
+1.Write a blog on Difference between HTTP1.1 vs HTTP2?
+Ans:-
+    Http2 must fast then Http1.1 while use Http2 avouid 
+    the network deley by useing multiplexing.Http2 reload
+    images faster then Http1.1. 
+
+2.write a blog about objects and its internal representation in javascript?
+Ans:-
+    Objects, in JavaScript, is it’s most important datatype and forms the building blocks for modern JavaScript.These objects are quite different from JavaScript’s primitive data-types(Number, String, Boolean, null, undefined and symbol) in the sense that while these primitive datatypes all store a single value each it's depending on their types.
