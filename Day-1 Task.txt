@@ -1,9 +1,7 @@
 # Day-1
 1.Write a blog on Difference between HTTP1.1 vs HTTP2?
 Ans:-
-    Http2 must fast then Http1.1 while use Http2 avouid 
-    the network deley by useing multiplexing.Http2 reload
-    images faster then Http1.1. 
+     Http2 must fast then Http1.1. while use Http2 avouid the network deley by useing multiplexing. Http2 reload images faster then Http1.1. One of the biggest differences between HTTP/1.1 and HTTP/2 is the way they handle data. HTTP/1.1 is a text-based protocol, which means that all data is transmitted as ASCII text. In contrast, HTTP/2 is a binary protocol, which means that it uses binary data to transmit headers and other information. Binary data is more efficient than text-based data because it takes up less space and can be processed more quickly by computers. Another key difference between HTTP/1.1 and HTTP/2 is the way they handle multiple requests and responses. HTTP/1.1 uses a system called pipelining to handle multiple requests and responses. With pipelining a client can send multiple requests to a server without waiting for a response to each one.
 
 2.write a blog about objects and its internal representation in javascript?
 Ans:-
